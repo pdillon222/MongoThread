@@ -1,0 +1,29 @@
+#!/bin/bash
+
+export host="hpss.nersc.gov"
+export hsicmd="/usr/syscom/nsg/opt/hsi/default/bin/hsi"
+export htarcmd="/usr/syscom/nsg/opt/htar/default/bin/htar"
+export bakdir="hostdump/mndlmdb02.nersc.gov/mongobackups"
+export bakname="mndlmdb1762.$(date '+%Y-%m-%d')"
+alias python3="/export/data/python/3.6.4/bin/python3.6"
+alias pip3="/export/data/python/3.6.4/bin/pip3.6"
+alias mongodb01="mongo mongodb01.nersc.gov/admin -u mongoadmin -p"
+alias mongodb02="mongo mongodb02.nersc.gov/admin -u mongoadmin -p"
+alias bakquiet="nohup ./main.py >/dev/null 2>&1 &"
+alias bakbg="nohup ./main.py &"
+
+alias syncMTWin='rsync -avh /export/data/python/3.6.4/lib/python3.6/MongoThread -e "ssh -p 5007" jamesdillon@73.170.147.102:/mnt/c/Users/JamesDillon/Development/Python/pylib --delete' 
+
+
+##current cron verbiage:[two Saturday evenings out of the month]
+#0 18 1-7,15-21 * * [ `date +\%u` = 6 ] && /export/data/python/3.6.4/lib/python3.6/MongoThread/main.py &>/export/data/python/3.6.4/lib/python3.6/MongoThread/mtTransferOut/"$(date +'\%m_\%d_\%y')".tfout
+
+##reminder: htar usage--
+#**Note: I altered the syscom file as Nick suggested, and htar is still not working
+#$htarcmd -H server=$hpsshost -cv -f '$hpss_backupdir/$backupname/key/key.tar' files"
+
+
+
+##reminder: hsi usage--
+
+#$hsicmd -h $hpsshost "ls $hpss_backupdir"

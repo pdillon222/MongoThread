@@ -1,0 +1,19 @@
+[03:28:05] -- Backup beginning.
+[03:37:51] -- Backup beginning.
+[03:41:51] -- Backup beginning.
+[03:47:37] -- !!Backup terminated: replica synchronization must begin now.
+[03:47:41] -- *Not safe to lock replica, sleeping 1 minutes.
+[03:48:41] -- *Not safe to lock replica, sleeping 1 minutes.
+[03:49:41] -- *Not safe to lock replica, sleeping 1 minutes.
+[03:50:41] -- *Not safe to lock replica, sleeping 1 minutes.
+[03:51:41] -- *Not safe to lock replica, sleeping 1 minutes.
+[03:56:19] -- Backup beginning.
+[04:01:31] -- !!Backup terminated: replica synchronization must begin now.
+[04:01:35] -- *Not safe to lock replica, sleeping 1 minutes.
+[04:02:35] -- *Not safe to lock replica, sleeping 1 minutes.
+[04:03:35] -- *Oplog header within safe date range, attempting backup.
+[04:04:20] -- Backup beginning.
+[04:07:13] -- !!Backup terminated: replica synchronization must begin now.
+[04:07:17] -- *Not safe to lock replica, sleeping 1 minutes.
+[04:08:17] -- *Not safe to lock replica, sleeping 1 minutes.
+[21:45:01] -- Backup beginning.

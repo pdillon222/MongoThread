@@ -1,0 +1,68 @@
+Directory mndlmdb1762.2018-04-09 successfully created on hpss.nersc.gov
+Processing database tasks: creating hostdump/mndlmdb02.nersc.gov/mongobackups/mndlmdb1762.2018-04-09/tasks on hpss.nersc.gov
+Processing database submission_testing: creating hostdump/mndlmdb02.nersc.gov/mongobackups/mndlmdb1762.2018-04-09/submission_testing on hpss.nersc.gov
+Processing database tractor_fireworks: creating hostdump/mndlmdb02.nersc.gov/mongobackups/mndlmdb1762.2018-04-09/tractor_fireworks on hpss.nersc.gov
+Processing database STARProdState: creating hostdump/mndlmdb02.nersc.gov/mongobackups/mndlmdb1762.2018-04-09/STARProdState on hpss.nersc.gov
+Processing database fw_jboes: creating hostdump/mndlmdb02.nersc.gov/mongobackups/mndlmdb1762.2018-04-09/fw_jboes on hpss.nersc.gov
+Processing database local: creating hostdump/mndlmdb02.nersc.gov/mongobackups/mndlmdb1762.2018-04-09/local on hpss.nersc.gov
+Processing database fw_zu_vaspsurfaces: creating hostdump/mndlmdb02.nersc.gov/mongobackups/mndlmdb1762.2018-04-09/fw_zu_vaspsurfaces on hpss.nersc.gov
+Processing database des_atc2: creating hostdump/mndlmdb02.nersc.gov/mongobackups/mndlmdb1762.2018-04-09/des_atc2 on hpss.nersc.gov
+Processing database prl-data: creating hostdump/mndlmdb02.nersc.gov/mongobackups/mndlmdb1762.2018-04-09/prl-data on hpss.nersc.gov
+Processing database snl_mp_prod: creating hostdump/mndlmdb02.nersc.gov/mongobackups/mndlmdb1762.2018-04-09/snl_mp_prod on hpss.nersc.gov
+Processing database jcesr_core_prod: creating hostdump/mndlmdb02.nersc.gov/mongobackups/mndlmdb1762.2018-04-09/jcesr_core_prod on hpss.nersc.gov
+Processing database submission_mp_prod_bak: creating hostdump/mndlmdb02.nersc.gov/mongobackups/mndlmdb1762.2018-04-09/submission_mp_prod_bak on hpss.nersc.gov
+Processing database keyfile: creating hostdump/mndlmdb02.nersc.gov/mongobackups/mndlmdb1762.2018-04-09/keyfile on hpss.nersc.gov
+Processing database des_atc: creating hostdump/mndlmdb02.nersc.gov/mongobackups/mndlmdb1762.2018-04-09/des_atc on hpss.nersc.gov
+Processing database submission_mp_prod: creating hostdump/mndlmdb02.nersc.gov/mongobackups/mndlmdb1762.2018-04-09/submission_mp_prod on hpss.nersc.gov
+Processing database procmon: creating hostdump/mndlmdb02.nersc.gov/mongobackups/mndlmdb1762.2018-04-09/procmon on hpss.nersc.gov
+Processing database wahtest: creating hostdump/mndlmdb02.nersc.gov/mongobackups/mndlmdb1762.2018-04-09/wahtest on hpss.nersc.gov
+Processing database metatlas: creating hostdump/mndlmdb02.nersc.gov/mongobackups/mndlmdb1762.2018-04-09/metatlas on hpss.nersc.gov
+Processing database test_insert: creating hostdump/mndlmdb02.nersc.gov/mongobackups/mndlmdb1762.2018-04-09/test_insert on hpss.nersc.gov
+Processing database fw_jcesr_prod: creating hostdump/mndlmdb02.nersc.gov/mongobackups/mndlmdb1762.2018-04-09/fw_jcesr_prod on hpss.nersc.gov
+Processing database sdm_metadata: creating hostdump/mndlmdb02.nersc.gov/mongobackups/mndlmdb1762.2018-04-09/sdm_metadata on hpss.nersc.gov
+Processing database mg_core_prod: creating hostdump/mndlmdb02.nersc.gov/mongobackups/mndlmdb1762.2018-04-09/mg_core_prod on hpss.nersc.gov
+Processing database alsdata: creating hostdump/mndlmdb02.nersc.gov/mongobackups/mndlmdb1762.2018-04-09/alsdata on hpss.nersc.gov
+Processing database mg_submission: creating hostdump/mndlmdb02.nersc.gov/mongobackups/mndlmdb1762.2018-04-09/mg_submission on hpss.nersc.gov
+Processing database ShifterTest: creating hostdump/mndlmdb02.nersc.gov/mongobackups/mndlmdb1762.2018-04-09/ShifterTest on hpss.nersc.gov
+Processing database vasp_mp_prod: creating hostdump/mndlmdb02.nersc.gov/mongobackups/mndlmdb1762.2018-04-09/vasp_mp_prod on hpss.nersc.gov
+Processing database _tmp: creating hostdump/mndlmdb02.nersc.gov/mongobackups/mndlmdb1762.2018-04-09/_tmp on hpss.nersc.gov
+Processing database Shifter: creating hostdump/mndlmdb02.nersc.gov/mongobackups/mndlmdb1762.2018-04-09/Shifter on hpss.nersc.gov
+Processing database als832: creating hostdump/mndlmdb02.nersc.gov/mongobackups/mndlmdb1762.2018-04-09/als832 on hpss.nersc.gov
+Processing database fireworks_test_sb: creating hostdump/mndlmdb02.nersc.gov/mongobackups/mndlmdb1762.2018-04-09/fireworks_test_sb on hpss.nersc.gov
+Processing database fw_mp_prod: creating hostdump/mndlmdb02.nersc.gov/mongobackups/mndlmdb1762.2018-04-09/fw_mp_prod on hpss.nersc.gov
+Processing database journal: creating hostdump/mndlmdb02.nersc.gov/mongobackups/mndlmdb1762.2018-04-09/journal on hpss.nersc.gov
+Processing database diagnostic: creating hostdump/mndlmdb02.nersc.gov/mongobackups/mndlmdb1762.2018-04-09/diagnostic on hpss.nersc.gov
+Processing database submissions_jcesr: creating hostdump/mndlmdb02.nersc.gov/mongobackups/mndlmdb1762.2018-04-09/submissions_jcesr on hpss.nersc.gov
+Processing database planckcal: creating hostdump/mndlmdb02.nersc.gov/mongobackups/mndlmdb1762.2018-04-09/planckcal on hpss.nersc.gov
+Processing database storage: creating hostdump/mndlmdb02.nersc.gov/mongobackups/mndlmdb1762.2018-04-09/storage on hpss.nersc.gov
+Processing database cosmo_image_metadata: creating hostdump/mndlmdb02.nersc.gov/mongobackups/mndlmdb1762.2018-04-09/cosmo_image_metadata on hpss.nersc.gov
+Processing database submission_jcesr_prod: creating hostdump/mndlmdb02.nersc.gov/mongobackups/mndlmdb1762.2018-04-09/submission_jcesr_prod on hpss.nersc.gov
+Processing database vasp_jcesr_prod: creating hostdump/mndlmdb02.nersc.gov/mongobackups/mndlmdb1762.2018-04-09/vasp_jcesr_prod on hpss.nersc.gov
+Processing database darshanprod: creating hostdump/mndlmdb02.nersc.gov/mongobackups/mndlmdb1762.2018-04-09/darshanprod on hpss.nersc.gov
+Processing database STAR_XROOTD: creating hostdump/mndlmdb02.nersc.gov/mongobackups/mndlmdb1762.2018-04-09/STAR_XROOTD on hpss.nersc.gov
+Processing database mongod: creating hostdump/mndlmdb02.nersc.gov/mongobackups/mndlmdb1762.2018-04-09/mongod on hpss.nersc.gov
+Processing database foo: creating hostdump/mndlmdb02.nersc.gov/mongobackups/mndlmdb1762.2018-04-09/foo on hpss.nersc.gov
+Processing database nwchem_jcesr_prod: creating hostdump/mndlmdb02.nersc.gov/mongobackups/mndlmdb1762.2018-04-09/nwchem_jcesr_prod on hpss.nersc.gov
+Processing database admin: creating hostdump/mndlmdb02.nersc.gov/mongobackups/mndlmdb1762.2018-04-09/admin on hpss.nersc.gov
+Processing database vasp_zu_vaspsurfaces: creating hostdump/mndlmdb02.nersc.gov/mongobackups/mndlmdb1762.2018-04-09/vasp_zu_vaspsurfaces on hpss.nersc.gov
+Processing database snl_jcesr_prod: creating hostdump/mndlmdb02.nersc.gov/mongobackups/mndlmdb1762.2018-04-09/snl_jcesr_prod on hpss.nersc.gov
+Processing database wahid_test: creating hostdump/mndlmdb02.nersc.gov/mongobackups/mndlmdb1762.2018-04-09/wahid_test on hpss.nersc.gov
+Processing database mg_apps_prod: creating hostdump/mndlmdb02.nersc.gov/mongobackups/mndlmdb1762.2018-04-09/mg_apps_prod on hpss.nersc.gov
+Traceback (most recent call last):
+  File "/export/data/python/3.6.4/lib/python3.6/MongoThread/mt_threadgen.py", line 120, in <module>
+    thread_dir.initialize(thread_dir.list_chomp,thread_dir.dict_gen()[2],create_backup=True,create_dirs=True)
+  File "/export/data/python/3.6.4/lib/python3.6/MongoThread/mt_threadgen.py", line 116, in initialize
+    self.process_pool(transfer_function,file_iterable)
+  File "/export/data/python/3.6.4/lib/python3.6/MongoThread/mt_threadgen.py", line 68, in process_pool
+    if MongoConnect().oplog_query(MongoConnect().client,self.freeze_replica,printing=False):
+  File "/export/data/python/3.6.4/lib/python3.6/MongoThread/mt_dbconnect.py", line 26, in __init__
+    self.client = MongoClient(uri)
+  File "/export/data/python/3.6.4/lib/python3.6/site-packages/pymongo/mongo_client.py", line 468, in __init__
+    res = uri_parser.parse_uri(entity, port, warn=True)
+  File "/export/data/python/3.6.4/lib/python3.6/site-packages/pymongo/uri_parser.py", line 424, in parse_uri
+    nodes = split_hosts(hosts, default_port=default_port)
+  File "/export/data/python/3.6.4/lib/python3.6/site-packages/pymongo/uri_parser.py", line 260, in split_hosts
+    nodes.append(parse_host(entity, port))
+  File "/export/data/python/3.6.4/lib/python3.6/site-packages/pymongo/uri_parser.py", line 155, in parse_host
+    % (port,))
+ValueError: Port must be an integer between 0 and 65535: uka41WMyAEqHO
