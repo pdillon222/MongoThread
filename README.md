@@ -5,8 +5,6 @@
 
 ## Modules:
 
-* main.py		mtPickles	mt_cryptoPik.py	mt_listgen.py	mt_rmdir.py	mt_trtest.py
-__init__.py	mtLogs		mtTransferOut	mt_dbconnect.py	mt_mailog.py	mt_tarfunc.py	quickvars
 * main: Orchestrator of the modular program.  Run via command line by `./main.py`
 * mt_listgen: Aggregator of current MongoDB databases within a given directory
 * mt_tarfunc: Multi-threaded worker logic, executing file transfers to a remote server
